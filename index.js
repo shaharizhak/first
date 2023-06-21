@@ -20,7 +20,6 @@ function Stopwatch() {
     } else throw new Error("already stopped");
   };
   this.reset = function () {
-    console.log("hiii");
     time = 0;
   };
 }
