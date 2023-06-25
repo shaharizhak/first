@@ -30,5 +30,5 @@ class Stack {
     throw new Error("empty stack");
   }
 }
-
+///
 const s = new Stack();
