@@ -32,4 +32,3 @@ class Stack {
 }
 
 const s = new Stack();
-push(0);
